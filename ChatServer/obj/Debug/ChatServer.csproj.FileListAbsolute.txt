@@ -1,0 +1,6 @@
+/Users/lukasamkharadze/Projects/ChatSolution/ChatServer/obj/Debug/ChatServer.csproj.AssemblyReference.cache
+/Users/lukasamkharadze/Projects/ChatSolution/ChatServer/obj/Debug/ChatServer.csproj.CoreCompileInputs.cache
+/Users/lukasamkharadze/Projects/ChatSolution/ChatServer/bin/Debug/ChatServer.exe
+/Users/lukasamkharadze/Projects/ChatSolution/ChatServer/bin/Debug/ChatServer.pdb
+/Users/lukasamkharadze/Projects/ChatSolution/ChatServer/obj/Debug/ChatServer.exe
+/Users/lukasamkharadze/Projects/ChatSolution/ChatServer/obj/Debug/ChatServer.pdb
